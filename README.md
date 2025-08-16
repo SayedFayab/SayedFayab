@@ -8,8 +8,8 @@
   <p>🧩 Passionate about solving complex problems and learning new technologies every day</p>
   <p>💡 Strong logical thinking, organized, hardworking, and collaborative</p>
   <p>🤖 Deeply enjoy exploring Artificial Intelligence, from machine learning to generative AI</p>
+  <hr>
 </div>
-###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SayedFayaz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SayedFayaz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&hide=roff,ejs" height="150" alt="languages graph"  />
@@ -18,7 +18,8 @@
 
 ###
 <img align="right" height="150" src="https://github.com/user-attachments/assets/b05b9a14-9c1c-4c08-a08d-41812d13b75a" alt="Sayed Fayaz" />
-
+ <h3>⚡ Skills</h3>
+  <hr>
 <div align="left">
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
@@ -61,10 +62,28 @@
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+<div align="center">
+
+  <h3>🌐 Connect with Me</h3>
+  <hr>
+
+  <!-- Gmail -->
+  <a href="mailto:fayab.fayaz@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="Gmail" />
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/sayed-fayaz" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/SayedFayaz" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  </a>
+
 </div>
+
 
 ###
 
