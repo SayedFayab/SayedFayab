@@ -6,7 +6,7 @@
   <p>💼 Junior Machine Learning Engineer at Reliable Accounting Inc.</p>
   <p>🧩 Passionate about solving complex problems and learning new technologies every day</p>
   <p>💡 Strong logical thinking, organized, hardworking, and collaborative</p>
-  <p>🤖 Deeply enjoy exploring Artificial Intelligence, from machine learning to generative AI</p>
+  <p>🤖 Deeply enjoy exploring Artificial Intelligence, from machine learning to generative and Agentic AI</p>
   <hr>
 </div>
 <div align="center">
@@ -59,6 +59,10 @@
 </div>
 
 ###
+
+
+
+
 
 <div align="left">
 
