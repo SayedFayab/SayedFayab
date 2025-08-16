@@ -60,7 +60,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
 
   <h3>🌐 Connect with Me</h3>
   <hr>
@@ -76,7 +76,7 @@
   </a>
 
   <!-- GitHub -->
-  <a href="https://github.com/SayedFayaz" target="_blank">
+  <a href="https://github.com/SayedFayab" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
   </a>
 
