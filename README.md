@@ -48,7 +48,17 @@
   <!-- NumPy -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="NumPy logo" />
   <img width="12" />
-
+  <!-- Streamlit -->
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" height="30" alt="Streamlit logo" />
+  <img width="12" />
+  <!-- Gradio -->
+  <!-- Gradio (monochrome) -->
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gradio.svg" height="30" alt="Gradio logo" />
+  <img width="12" />
+  <img src="https://avatars.githubusercontent.com/u/63614528?s=200&v=4" height="30" alt="Pinecone logo" />
+  <img width="12" />
+  <img src="https://avatars.githubusercontent.com/u/39948046?s=200&v=4" height="30" alt="Weaviate logo" />
+  <img width="12" />
   <!-- HTML -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
