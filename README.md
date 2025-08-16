@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I am Sayed Fayaz</h2>
+<h2 align="left">Hello 👋! I am Sayed Fayaz</h2>
 <img align="right" height="150" src="https://github.com/user-attachments/assets/b05b9a14-9c1c-4c08-a08d-41812d13b75a" alt="Sayed Fayaz" />
 
 <div align="left">
